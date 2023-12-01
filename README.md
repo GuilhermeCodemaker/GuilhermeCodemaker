@@ -12,6 +12,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeCodemaker&show_icons=true" />
 </picture>
 
+<div>
+  <a href="https://github.com/GuilhermeCodemaker">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCodemaker&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ⚡Programador Back-End⚡
 
