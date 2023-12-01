@@ -2,7 +2,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeCodemaker&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeCodemaker&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://github.com/GuilhermeCodemaker">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCodemaker&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCodemaker&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ⚡Programador Back-End⚡
