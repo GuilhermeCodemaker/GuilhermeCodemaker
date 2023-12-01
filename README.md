@@ -1,16 +1,19 @@
-### Hi there 👋
+### ☢CodeMaker☢
+⚡Programador Back-End⚡
 
-<!--
-**GuilhermeCodemaker/GuilhermeCodemaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+Dev Junior
 
-Here are some ideas to get you started:
+Free-Lancer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+ Estudante de Python   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+
+https://github-readme-stats.vercel.app/api?username=GuilhermeCodemaker&show_icons=true&theme=tokyonight
+
+
+![giphy (2)](https://github.com/itsroshan137/Horizontal-Swiper/assets/152624725/c3ae8ad7-0133-41d7-b10d-6c8d3df37827)
+
+></div>
+##
